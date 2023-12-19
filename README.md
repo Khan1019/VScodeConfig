@@ -1,1 +1,1 @@
-# vscodeConfig
+# VScodeConfig
